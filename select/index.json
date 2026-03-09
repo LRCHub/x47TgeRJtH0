@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Reflections",
+  "base_artist": "The Neighbourhood",
+  "createdAt": "2026-03-09T17:27:01.351845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reflections Are Protection",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/01_Reflections_Are_Protection_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Future Reflections",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/02_Future_Reflections_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Corpse (These Chains Are Way Too Long) (From 'Gibigiane \u0000 Reflections')",
+      "artist": "Passengers",
+      "has_synced": true,
+      "path": "select/03_Corpse_(These_Chains_Are_Way_Too_Long)_(From_'Gibigiane_\u0000_Reflections')_Passengers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Roots 'n Future (Reflections in dub)",
+      "artist": "Phuture Assassins",
+      "has_synced": false,
+      "path": "select/04_Roots_'n_Future_(Reflections_in_dub)_Phuture_Assassins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reflections - 12\" Album Version",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/05_Reflections_-_12__Album_Version_RMB.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reflections",
+      "artist": "Atmosphere",
+      "has_synced": true,
+      "path": "select/06_Reflections_Atmosphere.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reflections Of Remoh",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/07_Reflections_Of_Remoh_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reflections Of Remoh",
+      "artist": "The Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/08_Reflections_Of_Remoh_The_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reflections",
+      "artist": "Ethereal Delusions feat. GlitterWølf",
+      "has_synced": false,
+      "path": "select/09_Reflections_Ethereal_Delusions_feat._GlitterWølf.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reflections (feat. GlitterWølf)",
+      "artist": "Ethereal Delusions",
+      "has_synced": false,
+      "path": "select/10_Reflections_(feat._GlitterWølf)_Ethereal_Delusions.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reflections",
+      "artist": "Cast",
+      "has_synced": false,
+      "path": "select/11_Reflections_Cast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reflections After Jane",
+      "artist": "The Clientele",
+      "has_synced": true,
+      "path": "select/12_Reflections_After_Jane_The_Clientele.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Reflections",
+      "artist": "Hannah Diamond",
+      "has_synced": true,
+      "path": "select/13_Reflections_Hannah_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reversed Reflections",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/14_Reversed_Reflections_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "... And Other Reflections",
+      "artist": "Elbereth",
+      "has_synced": false,
+      "path": "select/15_..._And_Other_Reflections_Elbereth.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reflections",
+      "artist": "The Neighbourhood",
+      "has_synced": false,
+      "path": "select/pl_01_Reflections_The_Neighbourhood.txt"
+    }
+  ]
+}
